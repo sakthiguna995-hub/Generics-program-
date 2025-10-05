@@ -1,4 +1,4 @@
-# Generics-program-
+
 package shapes;
 class ShapePrinter implements Runnable {
     private String shape;
